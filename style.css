@@ -380,3 +380,10 @@ a in the nav bar, removing underline and adjusting looks
 	padding: 14px 16px;
 	text-decoration: none;
 }
+
+/*
+Change to black while hovering
+*/
+.navigation li a:hover{
+	background-color: #111;
+}
