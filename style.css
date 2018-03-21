@@ -418,6 +418,9 @@ added indexbox attributes
 	text-align: center;
 }
 
+/*
+ID made explicitly to show off text overflow set to hidden.
+*/
 #squished{
 	overflow: hidden;
 	height: 10.5em;
