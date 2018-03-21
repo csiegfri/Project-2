@@ -344,6 +344,9 @@ template {
 Finished with using the normalize feature
 */
 
+/*
+Added body background that repeats evenly
+*/
 body{
 	background-image: url("media/pattern.jpg");
 	background-repeat: x y;
@@ -357,3 +360,6 @@ body{
 	background-color: #dddddd;
 }
 
+.navigation li{
+	float: left;
+}
