@@ -475,3 +475,10 @@ Adjusting attributes of vid section. Other element: 3;
 	margin: 0em;
 	width: 90%;
 }
+
+#dummy{
+	text-align: center;
+	color: orange;
+	text-decoration: italic;
+	background-color: blue;
+}
