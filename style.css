@@ -408,12 +408,17 @@ active nav bar option to make it obvious
 added indexbox attributes
 */
 .indexbox{
-	margin: 5%;
+	margin: 3%;
 	padding: .5em;
-	width: 35%;
+	width: 39%;
 	float: left;
 	border-style: dotted;
 	border-width: .5em;
 	border-color: red;
 	text-align: center;
+}
+
+#squished{
+	overflow: hidden;
+	height: 20em;
 }
