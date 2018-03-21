@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow');
+
 /*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
@@ -343,8 +345,6 @@ template {
 /*
 Finished with using the normalize feature
 */
-
-@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow');
 
 /*
 Added body background that repeats evenly, font family from googleapis. Universal style element: 1
