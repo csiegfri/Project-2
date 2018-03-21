@@ -351,7 +351,7 @@ Added body background that repeats evenly, font family from googleapis. Universa
 */
 body{
 	background-image: url("media/pattern.jpg");
-	background-repeat: repeat-x repeat-y;
+	background-repeat: repeat;
 	font-family:"Archivo Narrow", sans serif;
 }
 
