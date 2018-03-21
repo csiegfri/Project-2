@@ -368,6 +368,7 @@ child li of navigation will float left, instead of all list elements
 */
 .navigation li{
 	float: left;
+	font-size: 1.6em;
 }
 
 /*
@@ -379,6 +380,7 @@ a in the nav bar, removing underline and adjusting looks
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
+	
 }
 
 /*
