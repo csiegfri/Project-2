@@ -390,6 +390,9 @@ Change to black while hovering
 	background-color: #111;
 }
 
+/*
+active nav bar option to make it obvious
+*/
 .active{
 	background-color: #4CAF50;
 	display: block;
