@@ -345,5 +345,6 @@ Finished with using the normalize feature
 */
 
 body{
-  margin: 0;
+  background-image: url("media/pattern.jpg");
+  background-repeat: x y;
 }
