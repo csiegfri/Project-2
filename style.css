@@ -387,3 +387,11 @@ Change to black while hovering
 .navigation li a:hover{
 	background-color: #111;
 }
+
+.active{
+	background-color: #4CAF50;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+}
