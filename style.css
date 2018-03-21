@@ -397,9 +397,9 @@ Change to black while hovering
 active nav bar option to make it obvious. Universal style element: 5
 */
 .active{
-	background-color: #4CAF50;
+	background-color: white;
 	display: block;
-	color: white;
+	color: black;
 	text-align: center;
 	padding: 14px 16px;
 }
@@ -503,3 +503,14 @@ Adjusting the h3 within the contact, giving it a bit more prominence. Resume ele
 	font-size: 1.5em;
 }
 
+/*
+encompassing boxes around resume sections. Resume element 3;
+*/
+.resumebox{
+	float: left;
+	border-style: single;
+	margin: 1em;
+	padding: .2em;
+	background-color: #999292;
+	opacity: 0.3;
+}
