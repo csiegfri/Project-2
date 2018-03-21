@@ -508,7 +508,7 @@ encompassing boxes around resume info. Resume element 3;
 */
 .resumebox{
 	float: left;
-	border-style: single;
+	border-style: solid;
 	margin: 1em;
 	padding: .2em;
 	background: rgba(76, 175, 80, 0.3);
