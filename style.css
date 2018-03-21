@@ -465,3 +465,13 @@ table{
 	position: fixed;
 	background-color: white;
 }
+
+/*
+Adjusting attributes of vid section. Other element: 3;
+*/
+#vid{
+	text-align: center;
+	padding: 5%;
+	margin: 0em;
+	width: 90%;
+}
