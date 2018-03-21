@@ -347,7 +347,7 @@ Finished with using the normalize feature
 @import url('https://fonts.googleapis.com/css?family=Archivo+Narrow');
 
 /*
-Added body background that repeats evenly, font family from googleapis
+Added body background that repeats evenly, font family from googleapis. Universal style element: 1
 */
 body{
 	background-image: url("media/pattern.jpg");
@@ -356,7 +356,7 @@ body{
 }
 
 /*
-To be horizontal nav bar using a ul 
+To be horizontal nav bar using a ul. Universal style element: 2
 */
 .navigation{
 	list-style-type: none;
@@ -367,7 +367,7 @@ To be horizontal nav bar using a ul
 }
 
 /*
-child li of navigation will float left, instead of all list elements
+child li of navigation will float left, instead of all list elements. Universal style element: 3
 */
 .navigation li{
 	float: left;
@@ -375,7 +375,7 @@ child li of navigation will float left, instead of all list elements
 }
 
 /*
-a in the nav bar, removing underline and adjusting looks
+a in the nav bar, removing underline and adjusting looks. Universal style element: 4
 */
 .navigation li a{
 	display: block;
@@ -394,7 +394,7 @@ Change to black while hovering
 }
 
 /*
-active nav bar option to make it obvious
+active nav bar option to make it obvious. Universal style element: 5
 */
 .active{
 	background-color: #4CAF50;
@@ -405,7 +405,7 @@ active nav bar option to make it obvious
 }
 
 /*
-added indexbox attributes
+added indexbox attributes. index element: 1;
 */
 .indexbox{
 	margin: 3%;
@@ -419,7 +419,7 @@ added indexbox attributes
 }
 
 /*
-ID made explicitly to show off text overflow set to hidden.
+ID made explicitly to show off text overflow set to hidden. index element: 2
 */
 #squished{
 	overflow: hidden;
@@ -427,14 +427,14 @@ ID made explicitly to show off text overflow set to hidden.
 }
 
 /*
-modify order list bullet type
+modify order list bullet type. Index element: 3
 */
 ol{
 	list-style-type: upper-latin;
 }
 
 /*
-Adjusting h1 attributes
+Adjusting h1 attributes. Universal style element: 7
 */
 h1{
 	position: relative;
@@ -445,7 +445,7 @@ h1{
 }
 
 /*
-Border stuff and padding for table and child elements
+Border stuff and padding for table and child elements. Other element: 1;
 */
 table, td, th{
 	border-style: double;
@@ -456,7 +456,7 @@ table, td, th{
 }
 
 /*
-putting the table as fixed, adjusting with and position, changing background to make it stand out more.
+putting the table as fixed, adjusting with and position, changing background to make it stand out more. Other element: 2;
 */
 table{
 	width: 40%;
