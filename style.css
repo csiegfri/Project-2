@@ -352,6 +352,9 @@ body{
 	background-repeat: x y;
 }
 
+/*
+To be horizontal nav bar using a ul 
+*/
 .navigation{
 	list-style-type: none;
 	margin: 0;
@@ -360,6 +363,9 @@ body{
 	background-color: #dddddd;
 }
 
+/*
+child li of navigation will float left, instead of all list elements
+*/
 .navigation li{
 	float: left;
 }
