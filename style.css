@@ -344,12 +344,15 @@ template {
 Finished with using the normalize feature
 */
 
+@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow');
+
 /*
-Added body background that repeats evenly
+Added body background that repeats evenly, font family from googleapis
 */
 body{
 	background-image: url("media/pattern.jpg");
 	background-repeat: x y;
+	font-family:"Archivo Narrow", sans serif;
 }
 
 /*
