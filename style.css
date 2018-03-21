@@ -485,3 +485,21 @@ dummy text to add enough screen space so that the screen scrolls. Other element:
 	text-decoration: italic;
 	background-color: blue;
 }
+
+
+/*
+contact info on resume. Resume element: 1;
+*/
+#contact{
+	text-align: center;
+	color: orange;
+}
+
+/*
+Adjusting the h3 within the contact, giving it a bit more prominence. Resume element 2;
+*/
+#contract h3{
+	text-decoration: bold;
+	font-size: 1.5em;
+}
+
