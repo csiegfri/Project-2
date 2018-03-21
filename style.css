@@ -476,6 +476,9 @@ Adjusting attributes of vid section. Other element: 3;
 	width: 90%;
 }
 
+/*
+dummy text to add enough screen space so that the screen scrolls. Other element: 4;
+*/
 #dummy{
 	text-align: center;
 	color: orange;
