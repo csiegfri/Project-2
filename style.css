@@ -504,13 +504,20 @@ Adjusting the h3 within the contact, giving it a bit more prominence. Resume ele
 }
 
 /*
-encompassing boxes around resume sections. Resume element 3;
+encompassing boxes around resume info. Resume element 3;
 */
 .resumebox{
 	float: left;
 	border-style: single;
 	margin: 1em;
 	padding: .2em;
-	background-color: #999292;
-	opacity: 0.3;
+	background: rgba(76, 175, 80, 0.3);
+}
+
+
+/*
+h3 children of resumebox. Resume element 4;
+*/
+.resumebox h3{
+	text-decoration: bold;
 }
