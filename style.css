@@ -444,16 +444,24 @@ h1{
 	text-decoration: underline;
 }
 
+/*
+Border stuff and padding for table and child elements
+*/
 table, td, th{
 	border-style: double;
 	border-width: .3em;
 	border-collapse: collapse;
 	border-color: black;
-	padding: .1em;
+	padding: .2em;
 }
 
+/*
+putting the table as fixed, adjusting with and position, changing background to make it stand out more.
+*/
 table{
-	width: 600px;
-	height: 500px;
+	width: 40%;
+	height: 30%;
+	right: 500px;
 	position: fixed;
+	background-color: white;
 }
