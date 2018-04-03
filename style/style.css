@@ -468,11 +468,15 @@ table, td, th{
 putting the table as fixed, adjusting with and position, changing background to make it stand out more. Other element: 2;
 */
 table{
-	width: 40%;
+	width: 28%;
 	height: 30%;
-	right: 500px;
-	position: fixed;
+	position: relative;
 	background-color: white;
+}
+
+div{
+	width: 100%;
+	position: fixed;
 }
 
 /*
