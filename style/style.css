@@ -358,12 +358,22 @@ body{
 /*
 To be horizontal nav bar using a ul. Universal style element: 2
 */
+
+nav{
+	width:25%;	
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .navigation{
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
 	background-color: #999292;
+	text-align: center;
+	position: relative;	
 }
 
 /*
@@ -380,7 +390,6 @@ a in the nav bar, removing underline and adjusting looks. Universal style elemen
 .navigation li a{
 	display: block;
 	color: white;
-	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
 	
